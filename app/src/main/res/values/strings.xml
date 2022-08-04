@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MVVMStudy</string>
+
+    <string name="blank_frag">Selam şu an burası boş</string>
+    <string name="itemName">Muz</string>
+    <string name="itemQuantity">2</string>
+    <string name="itemPrice">17TL</string>
+    <string name="totalCost">20</string>
+    <string name="costTitle">Toplam Harcama</string>
+    <string name="title">Sepetinize eklenecek eşya</string>
+    <string name="etItem">Eşya</string>
+    <string name="etQuantity">Sayı</string>
+    <string name="etPrice">Bedel</string>
+    <string name="save">Kaydet</string>
+    <string name="cancel">Geri</string>
+
+</resources>
